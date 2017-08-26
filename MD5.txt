@@ -1,0 +1,10 @@
+﻿服务器资源目录(https://git.oschina.net/scimence/FundAnalyseTool/raw/master/)
+本地资源目录(E:\SVN\workSpace\FundAnalyseTool\)
+
+待更新文件(
+
+FundAnalyseTool_v21.exe(c7e8a2dd28ca6e8df79570f0cda4383a)
+README.md(91d5d4721e7a17b4f99fd17ad2e1b131)
+基金信息分析工具v21-混淆.7z.data(2e53eb26a48fa4d3a065184f4799166e)
+
+)待更新文件
